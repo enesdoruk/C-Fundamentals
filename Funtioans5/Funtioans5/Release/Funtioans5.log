@@ -1,0 +1,3 @@
+﻿  Funtioans5.cpp
+Funtioans5.obj : error LNK2001: Çözümlenmemiş dış sembol "unsigned int __cdecl boxVolume(unsigned int,unsigned int,unsigned int)" (?boxVolume@@YAIIII@Z)
+C:\Users\ENES DORUK\Desktop\c++_Project\Funtioans5\Release\Funtioans5.exe : fatal error LNK1120: 1 çözümlenmemiş dışlar
