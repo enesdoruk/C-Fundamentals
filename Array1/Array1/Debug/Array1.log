@@ -1,0 +1,6 @@
+﻿  array4.cpp
+c:\users\enes doruk\desktop\c++_project\array1\array1\array4.cpp(25): error C2143: sözdizimi hatası: ';' eksik (':' öncesinde)
+c:\users\enes doruk\desktop\c++_project\array1\array1\array4.cpp(25): error C2143: sözdizimi hatası: ')' eksik (':' öncesinde)
+c:\users\enes doruk\desktop\c++_project\array1\array1\array4.cpp(25): error C2059: sözdizimi hatası: ':'
+c:\users\enes doruk\desktop\c++_project\array1\array1\array4.cpp(25): error C2059: sözdizimi hatası: ')'
+c:\users\enes doruk\desktop\c++_project\array1\array1\array4.cpp(25): error C2143: sözdizimi hatası: ';' eksik ('{' öncesinde)
